@@ -1,3 +1,10 @@
-test:
-	echo "Can't test, I haven't figured out how to load a module in node!"
-	false
+all: test
+
+build: index.ts
+	tsc index.ts
+
+test: lib/*.mjs test/*.mjs
+	node --experimental-modules test/mooch.mjs
+
+run: index.js
+	node index.js
