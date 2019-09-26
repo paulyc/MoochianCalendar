@@ -7,7 +7,7 @@ Anthony Scaramucci, nicknamed "The Mooch", is an American financier, entrepreneu
 # Definitions
 Moochian Epoch: July 21, 2017 Gregorian = day 0, Moochian Era 0 (ME0) (Time taken as 09:57 EDT (UTC-4) per https://twitter.com/FoxNews/status/888442749342580737)
 
-Le Fin de Mooch: July 31, 2017 Gregorian = day 10, ME0, = day 0, ME1 (11:57 EDT per https://twitter.com/FoxNews/status/892095844341731328)
+Le Fin de Mooch: July 31, 2017 Gregorian = day 10, ME0, = day 0, ME1 (11:53 EDT per https://twitter.com/FoxNews/status/892095844341731328)
 
 Moochian Period: 11 mean solar days
 
