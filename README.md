@@ -11,7 +11,7 @@ Le Fin de Mooch: July 31, 2017 Gregorian = day 10, ME0, = day 0, ME1 (11:53 EDT 
 
 Moochian Period: 11 mean solar days
 
-Fine Moochian Period (time between official @FoxNews announcement of appointment and dismissal): 11.080555555... mean solar days
+Fine Moochian Period (time between official @FoxNews announcement of appointment and dismissal, plus one full paid days' credit): 11.080555555... mean solar days
 
 Noted to be inclusive of Appointment and Dismissal days, though it seems likely
 that pay was only requisitioned beginning on the 25th giving a Moochian Period of
