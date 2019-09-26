@@ -14,6 +14,11 @@
 // OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 // PERFORMANCE OF THIS SOFTWARE.
 
+// Authors Note: Moochian Time Units are ikely more applicable to time periods 
+// than absolute dates but this way it's extremely easy to pick one or the other 
+// and interconvert with little confusion over what means a period of time and
+// what means an absolute date
+
 const Constants = {
     MillisecondsInDay: 24 * 60 * 60 * 1000
 };
