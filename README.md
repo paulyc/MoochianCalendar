@@ -20,7 +20,7 @@ social media meme definition.
 
 # Metric (SI) prefixes
 
-### We shall have to hope the unit M is not too easily confused with M for Molarity, but considering the Mooch base unit is in time, seconds, and the Molarity base unit is in space, Liters^-3, I think not, but rate of concentration change could potentially be expressed as the partial derivative of molarity with respect to Mooches, dM/dM, now wouldn't that be fun?
+### We shall have to hope the unit M is not too easily confused with M for Molarity, but considering the Mooch base unit is in time, seconds, and the Molarity base unit is in space, Liters^-3, I think not, but rate of concentration change could potentially be expressed as the partial derivative of concentration with respect to a function of Mooches, dM/dM now wouldn't that be fun?
 
 1 DM (daM) = 1 dekaMooch = 10 Moochian Periods (MP) = 11e1 M = 110 solar days
 
