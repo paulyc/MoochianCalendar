@@ -1,5 +1,5 @@
 # MoochianCalendar
-Mooch - n. a unit of time equal to 10 mean solar days (864000s in SI units)
+Mooch - n. a unit of time equal to 10 mean solar days (864000s in SI units or 1 Dekaday Dd)
 
 # WTFinfo
 Anthony Scaramucci, nicknamed "The Mooch", is an American financier, entrepreneur, and political consultant who briefly served as the White House Director of Communications from July 21 to July 31, 2017. [Cite Wikipedia]
