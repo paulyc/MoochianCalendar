@@ -1,5 +1,5 @@
 # MoochianCalendar
-Mooch - n. (inf.) a unit of time equal to 11 mean solar days (950400s in SI units)
+Mooch - n. a unit of time equal to 11 mean solar days (950400s in SI units)
 
 # WTFinfo
 Anthony Scaramucci, nicknamed "The Mooch", is an American financier, entrepreneur, and political consultant who briefly served as the White House Director of Communications from July 21 to July 31, 2017. [Cite Wikipedia]
@@ -17,7 +17,7 @@ Noted to be inclusive of Appointment and Dismissal days, as payroll does not hav
 
 # Metric (SI) prefixes
 
-### We shall have to hope the unit M is not too easily confused with M for Molarity, but considering the Mooch base unit is in time, seconds, and the Molarity base unit is in space, Meters^-3, I think not, but rate of concentration change could potentially be expressed as the partial derivative of molarity with respect to a function of Mooches, dM/dM now wouldn't that be fun?
+### We shall have to hope the unit M is not too easily confused with M for Molarity, but considering the Mooch base unit is in time, seconds, and the Molarity base unit is in space, Meters^-3, notwithstanding general relativity, I think not.
 
 1 DM (daM) = 1 dekaMooch = 10 Moochian Periods (MP) = 11e1 M = 110 solar days
 
