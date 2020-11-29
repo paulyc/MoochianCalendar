@@ -1,22 +1,19 @@
 # MoochianCalendar
-Mooch - n. (inf.) a unit of time approximately equal to 11 solar days
+Mooch - n. (inf.) a unit of time equal to 11 mean solar days (950400s in SI units)
 
 # WTFinfo
-Anthony Scaramucci, nicknamed "The Mooch", is an American financier, entrepreneur, and political consultant who briefly served as the White House Director of Communications from July 21 to July 31, 2017. 
+Anthony Scaramucci, nicknamed "The Mooch", is an American financier, entrepreneur, and political consultant who briefly served as the White House Director of Communications from July 21 to July 31, 2017. [Cite Wikipedia]
 
 # Definitions
 Moochian Epoch: July 21, 2017 Gregorian = day 0, Moochian Era 0 (ME0) (Time taken as 09:57 EDT (UTC-4) per https://twitter.com/FoxNews/status/888442749342580737)
 
 Le Fin de Mooch: July 31, 2017 Gregorian = day 10, ME0, = day 0, ME1 (11:53 EDT per https://twitter.com/FoxNews/status/892095844341731328)
 
-Moochian Period: 11 mean solar days
+Moochian Period: 11 mean solar days = 950400s (SI)
 
 Fine Moochian Period (time between official @FoxNews announcement of appointment and dismissal, plus one full paid days' credit): 11.080555555... mean solar days
 
-Noted to be inclusive of Appointment and Dismissal days, though it seems likely
-that pay was only requisitioned beginning on the 25th giving a Moochian Period of
-one week, and that would just be boring, so we'll go with the commonly used
-social media meme definition.
+Noted to be inclusive of Appointment and Dismissal days, as payroll does not have partial days
 
 # Metric (SI) prefixes
 
